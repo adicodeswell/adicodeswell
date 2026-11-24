@@ -15,7 +15,7 @@ Developer focused on **backend engineering** and **AI engineering**, interested 
 
 - **Backend:** <img src="https://api.iconify.design/simple-icons/python.svg?color=%237e9cd8" width="13" height="13" alt="" /> Python (<img src="https://api.iconify.design/simple-icons/fastapi.svg?color=%237e9cd8" width="13" height="13" alt="" /> FastAPI) &middot; <img src="https://api.iconify.design/simple-icons/javascript.svg?color=%237e9cd8" width="13" height="13" alt="" /> JS / <img src="https://api.iconify.design/simple-icons/typescript.svg?color=%237e9cd8" width="13" height="13" alt="" /> TS (<img src="https://api.iconify.design/simple-icons/nodedotjs.svg?color=%237e9cd8" width="13" height="13" alt="" /> Node.js, <img src="https://api.iconify.design/simple-icons/express.svg?color=%237e9cd8" width="13" height="13" alt="" /> Express) &middot; REST & HTTP
 - **Data:** <img src="https://api.iconify.design/simple-icons/postgresql.svg?color=%237e9cd8" width="13" height="13" alt="" /> PostgreSQL &middot; <img src="https://api.iconify.design/simple-icons/mongodb.svg?color=%237e9cd8" width="13" height="13" alt="" /> MongoDB &middot; <img src="https://api.iconify.design/simple-icons/redis.svg?color=%237e9cd8" width="13" height="13" alt="" /> Redis
-- **DSA:** <img src="https://api.iconify.design/mdi/language-java.svg?color=%237e9cd8" width="13" height="13" alt="" /> Java *(problem solving only)*
+- **DSA:** <img src="https://api.iconify.design/mdi/language-java.svg?color=%237e9cd8" width="13" height="13" alt="" /> Java 
 
 ### <img src="https://api.iconify.design/lucide/wrench.svg?color=%237e9cd8" width="14" height="14" alt="" /> `tools`
 
