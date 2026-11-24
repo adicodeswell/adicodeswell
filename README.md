@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/header.svg" alt="Adi Jha — Backend & AI Engineering" />
+  <img src="./assets/header.svg" alt="I am adi — Backend & AI Engineering" />
   <br />
   <a href="https://leetcode.com/u/dev_adijha/">
     <img src="https://api.iconify.design/simple-icons/leetcode.svg?color=%23FFA116" width="13" height="13" alt="" />
